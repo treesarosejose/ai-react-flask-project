@@ -17,8 +17,8 @@ function Admin() {
         <thead>
           <tr>
             <th>Username</th>
-            <th>Feedback</th>
-            <th>Sentiment</th>
+            <th>text</th>
+            <th>Emotion</th>
           </tr>
         </thead>
         <tbody>
